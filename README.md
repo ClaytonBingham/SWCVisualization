@@ -4,7 +4,7 @@ SWCVisualization is a package designed to facilitate virtual interaction with ex
 
 Originally this package was written to aid the construction of biologically realistic neural models for use in computational studies of extracellular electrical stimulation but it can be used for diverse neural modeling problems.
 
-![Roots Example Arbor](https://github.com/bingsome/swcVisualization/blob/master/docs/gif.gif)
+![gif](https://user-images.githubusercontent.com/7799699/88577412-f9f92700-d014-11ea-8ca2-debfffffd242.gif)
 
 Installation
 Download the package and while in root directory call: 
